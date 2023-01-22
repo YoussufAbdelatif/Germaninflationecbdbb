@@ -1,0 +1,340 @@
+﻿"";BBK01.SU0202;BBK01.SU0202_FLAGS
+"";Zinssatz der EZB für Hauptrefinanzierungsgeschäfte / Stand am Monatsende;
+BBK_DECIMALS;2;
+BBK_GRAPHPOS;E;
+Dimension;Eins;
+Einheit;% p.a.;
+TIME_FORMAT;P1M;
+Stand vom;02.11.2022 09:22:44 Uhr;
+1999-01;3,00;Bemerkung
+1999-02;3,00;Bemerkung
+1999-03;3,00;Bemerkung
+1999-04;2,50;Bemerkung
+1999-05;2,50;
+1999-06;2,50;
+1999-07;2,50;
+1999-08;2,50;
+1999-09;2,50;
+1999-10;2,50;
+1999-11;3,00;Bemerkung
+1999-12;3,00;
+2000-01;3,00;
+2000-02;3,25;Bemerkung
+2000-03;3,50;Bemerkung
+2000-04;3,50;
+2000-05;3,75;Bemerkung
+2000-06;4,25;Bemerkung
+2000-07;4,25;
+2000-08;4,25;
+2000-09;4,50;Bemerkung
+2000-10;4,75;Bemerkung
+2000-11;4,75;
+2000-12;4,75;
+2001-01;4,75;
+2001-02;4,75;
+2001-03;4,75;
+2001-04;4,75;
+2001-05;4,50;Bemerkung
+2001-06;4,50;
+2001-07;4,50;
+2001-08;4,50;
+2001-09;3,75;Bemerkung
+2001-10;3,75;
+2001-11;3,25;Bemerkung
+2001-12;3,25;
+2002-01;3,25;
+2002-02;3,25;
+2002-03;3,25;
+2002-04;3,25;
+2002-05;3,25;
+2002-06;3,25;
+2002-07;3,25;
+2002-08;3,25;
+2002-09;3,25;
+2002-10;3,25;
+2002-11;3,25;
+2002-12;2,75;Bemerkung
+2003-01;2,75;
+2003-02;2,75;
+2003-03;2,50;Bemerkung
+2003-04;2,50;
+2003-05;2,50;
+2003-06;2,00;Bemerkung
+2003-07;2,00;
+2003-08;2,00;
+2003-09;2,00;
+2003-10;2,00;
+2003-11;2,00;
+2003-12;2,00;
+2004-01;2,00;
+2004-02;2,00;
+2004-03;2,00;
+2004-04;2,00;
+2004-05;2,00;
+2004-06;2,00;
+2004-07;2,00;
+2004-08;2,00;
+2004-09;2,00;
+2004-10;2,00;
+2004-11;2,00;
+2004-12;2,00;
+2005-01;2,00;
+2005-02;2,00;
+2005-03;2,00;
+2005-04;2,00;
+2005-05;2,00;
+2005-06;2,00;
+2005-07;2,00;
+2005-08;2,00;
+2005-09;2,00;
+2005-10;2,00;
+2005-11;2,00;
+2005-12;2,25;Bemerkung
+2006-01;2,25;
+2006-02;2,25;
+2006-03;2,50;Bemerkung
+2006-04;2,50;
+2006-05;2,50;
+2006-06;2,75;Bemerkung
+2006-07;2,75;
+2006-08;3,00;Bemerkung
+2006-09;3,00;
+2006-10;3,25;Bemerkung
+2006-11;3,25;
+2006-12;3,50;Bemerkung
+2007-01;3,50;
+2007-02;3,50;
+2007-03;3,75;Bemerkung
+2007-04;3,75;
+2007-05;3,75;
+2007-06;4,00;Bemerkung
+2007-07;4,00;
+2007-08;4,00;
+2007-09;4,00;
+2007-10;4,00;
+2007-11;4,00;
+2007-12;4,00;
+2008-01;4,00;
+2008-02;4,00;
+2008-03;4,00;
+2008-04;4,00;
+2008-05;4,00;
+2008-06;4,00;
+2008-07;4,25;Bemerkung
+2008-08;4,25;
+2008-09;4,25;
+2008-10;3,75;Bemerkung
+2008-11;3,25;Bemerkung
+2008-12;2,50;Bemerkung
+2009-01;2,00;Bemerkung
+2009-02;2,00;
+2009-03;1,50;Bemerkung
+2009-04;1,25;Bemerkung
+2009-05;1,00;Bemerkung
+2009-06;1,00;
+2009-07;1,00;
+2009-08;1,00;
+2009-09;1,00;
+2009-10;1,00;
+2009-11;1,00;
+2009-12;1,00;
+2010-01;1,00;
+2010-02;1,00;
+2010-03;1,00;
+2010-04;1,00;
+2010-05;1,00;
+2010-06;1,00;
+2010-07;1,00;
+2010-08;1,00;
+2010-09;1,00;
+2010-10;1,00;
+2010-11;1,00;
+2010-12;1,00;
+2011-01;1,00;
+2011-02;1,00;
+2011-03;1,00;
+2011-04;1,25;Bemerkung
+2011-05;1,25;
+2011-06;1,25;
+2011-07;1,50;Bemerkung
+2011-08;1,50;
+2011-09;1,50;
+2011-10;1,50;
+2011-11;1,25;Bemerkung
+2011-12;1,00;Bemerkung
+2012-01;1,00;
+2012-02;1,00;
+2012-03;1,00;
+2012-04;1,00;
+2012-05;1,00;
+2012-06;1,00;
+2012-07;0,75;Bemerkung
+2012-08;0,75;
+2012-09;0,75;
+2012-10;0,75;
+2012-11;0,75;
+2012-12;0,75;
+2013-01;0,75;
+2013-02;0,75;
+2013-03;0,75;
+2013-04;0,75;
+2013-05;0,50;Bemerkung
+2013-06;0,50;
+2013-07;0,50;
+2013-08;0,50;
+2013-09;0,50;
+2013-10;0,50;
+2013-11;0,25;Bemerkung
+2013-12;0,25;
+2014-01;0,25;
+2014-02;0,25;
+2014-03;0,25;
+2014-04;0,25;
+2014-05;0,25;
+2014-06;0,15;Bemerkung
+2014-07;0,15;
+2014-08;0,15;
+2014-09;0,05;Bemerkung
+2014-10;0,05;
+2014-11;0,05;
+2014-12;0,05;
+2015-01;0,05;
+2015-02;0,05;
+2015-03;0,05;
+2015-04;0,05;
+2015-05;0,05;
+2015-06;0,05;
+2015-07;0,05;
+2015-08;0,05;
+2015-09;0,05;
+2015-10;0,05;
+2015-11;0,05;
+2015-12;0,05;
+2016-01;0,05;
+2016-02;0,05;
+2016-03;0,00;Bemerkung
+2016-04;0,00;
+2016-05;0,00;
+2016-06;0,00;
+2016-07;0,00;
+2016-08;0,00;
+2016-09;0,00;
+2016-10;0,00;
+2016-11;0,00;
+2016-12;0,00;
+2017-01;0,00;
+2017-02;0,00;
+2017-03;0,00;
+2017-04;0,00;
+2017-05;0,00;
+2017-06;0,00;
+2017-07;0,00;
+2017-08;0,00;
+2017-09;0,00;
+2017-10;0,00;
+2017-11;0,00;
+2017-12;0,00;
+2018-01;0,00;
+2018-02;0,00;
+2018-03;0,00;
+2018-04;0,00;
+2018-05;0,00;
+2018-06;0,00;
+2018-07;0,00;
+2018-08;0,00;
+2018-09;0,00;
+2018-10;0,00;
+2018-11;0,00;
+2018-12;0,00;
+2019-01;0,00;
+2019-02;0,00;
+2019-03;0,00;
+2019-04;0,00;
+2019-05;0,00;
+2019-06;0,00;
+2019-07;0,00;
+2019-08;0,00;
+2019-09;0,00;
+2019-10;0,00;
+2019-11;0,00;
+2019-12;0,00;
+2020-01;0,00;
+2020-02;0,00;
+2020-03;0,00;
+2020-04;0,00;
+2020-05;0,00;
+2020-06;0,00;
+2020-07;0,00;
+2020-08;0,00;
+2020-09;0,00;
+2020-10;0,00;
+2020-11;0,00;
+2020-12;0,00;
+2021-01;0,00;
+2021-02;0,00;
+2021-03;0,00;
+2021-04;0,00;
+2021-05;0,00;
+2021-06;0,00;
+2021-07;0,00;
+2021-08;0,00;
+2021-09;0,00;
+2021-10;0,00;
+2021-11;0,00;
+2021-12;0,00;
+2022-01;0,00;
+2022-02;0,00;
+2022-03;0,00;
+2022-04;0,00;
+2022-05;0,00;
+2022-06;0,00;
+2022-07;0,50;Bemerkung
+2022-08;0,50;
+2022-09;1,25;Bemerkung
+2022-10;1,25;
+2022-11;2,00;
+"";"Bemerkung zu 1999-01: Festsatz am 7. Jan. 1999 3,00 % (Beschluss des EZB-Rates vom 22. Dez. 1998); Festsatz am 13. und 20. Jan. 1999 3,00 % (Beschluss des EZB-Rates vom 7. Jan. 1999); Festsatz am 27. Jan. und 3. Febr. 1999 3,00 % (Beschluss des EZB-Rates vom 21. Jan. 1999)";
+"";"Bemerkung zu 1999-02: Festsatz am 10. und 17. Febr. 1999 3,00 % (Beschluss des EZB-Rates vom 4. Febr. 1999); Festsatz am 24. Febr. und 3. März 1999 3,00 % (Beschluss des EZB-Rates vom 18. Febr. 1999)";
+"";"Bemerkung zu 1999-03: Festsatz am 10. und 17. März 1999 3,00 % (Beschluss des EZB-Rates vom 4. März 1999); Festsatz am 24. und 31. März, 7. April 1999 3,00 % (Beschluss des EZB-Rates vom 18. März 1999)";
+"";Bemerkung zu 1999-04: Festsatz ab 14. April 1999 2,50 % (Beschluss des EZB-Rates vom 8. April 1999);
+"";Bemerkung zu 1999-11: Festsatz ab 10. Nov. 1999 3,00 % (Beschluss des EZB-Rates vom 4. Nov. 1999);
+"";Bemerkung zu 2000-02: Festsatz ab 9. Febr. 2000 3,25 % (Beschluss des EZB-Rates vom 3. Febr. 2000);
+"";Bemerkung zu 2000-03: Festsatz ab 22. März 2000 3,50 % (Beschluss des EZB-Rates vom 16. März 2000);
+"";Bemerkung zu 2000-05: Festsatz ab 4. Mai 2000 3,75 % (Beschluss des EZB-Rates vom 27. April 2000);
+"";Bemerkung zu 2000-06: Festsatz am 15. Juni und 21. Juni 4,25 %, Mindestbietungssatz ab 28. Juni 4,25 % (Beschluss des EZB-Rates vom 8. Juni 2000);
+"";Bemerkung zu 2000-09: Mindestbietungssatz ab 6. Sept. 2000 4,50 % (Beschluss des EZB-Rates vom 31. Aug. 2000);
+"";Bemerkung zu 2000-10: Mindestbietungssatz ab 11. Okt. 2000 4,75 % (Beschluss des EZB-Rates vom 5. Okt. 2000);
+"";Bemerkung zu 2001-05: Mindestbietungssatz ab 15. Mai 2001 4,50 % (Beschluss des EZB-Rates vom 10. Mai 2001);
+"";"Bemerkung zu 2001-09: Mindestbietungssatz ab 5. Sept. 2001 4,25 % (Beschluss des EZB-Rates vom 30. Aug. 2001); Mindestbietungssatz ab 19. Sept. 2001 3,75 % (Beschluss des EZB-Rates vom 17. Sept. 2001)";
+"";Bemerkung zu 2001-11: Mindestbietungssatz ab 14. Nov. 2001 3,25 % (Beschluss des EZB-Rates vom 8. Nov. 2001);
+"";Bemerkung zu 2002-12: Mindestbietungssatz ab 11. Dez. 2002 2,75 % (Beschluss des EZB-Rates vom 5. Dez. 2002);
+"";Bemerkung zu 2003-03: Mindestbietungssatz ab 12. März 2003 2,50 % (Beschluss des EZB-Rates vom 6. März 2003);
+"";Bemerkung zu 2003-06: Mindestbietungssatz ab 9. Juni 2003 2,00 % (Beschluss des EZB-Rates vom 5. Juni 2003);
+"";Bemerkung zu 2005-12: Mindestbietungssatz ab 6. Dez. 2005 2,25 % (Beschluss des EZB-Rates vom 1. Dez. 2005);
+"";Bemerkung zu 2006-03: Mindestbietungssatz ab 8. März 2006 2,50 % (Beschluss des EZB-Rates vom 2. März 2006);
+"";Bemerkung zu 2006-06: Mindestbietungssatz ab 15. Juni 2006 2,75 % (Beschluss des EZB-Rates vom 8. Juni 2006);
+"";Bemerkung zu 2006-08: Mindestbietungssatz ab 9. Aug. 2006 3,00 % (Beschluss des EZB-Rates vom 3. Aug. 2006);
+"";Bemerkung zu 2006-10: Mindestbietungssatz ab 11. Okt. 2006 3,25 % (Beschluss des EZB-Rates vom 5. Okt. 2006);
+"";Bemerkung zu 2006-12: Mindestbietungssatz ab 13. Dez. 2006 3,50 % (Beschluss des EZB-Rates vom 7. Dez. 2006);
+"";Bemerkung zu 2007-03: Mindestbietungssatz ab 14. März 2007 3,75 % (Beschluss des EZB-Rates vom 8. März 2007);
+"";Bemerkung zu 2007-06: Mindestbietungssatz ab 13. Juni 2007 4,00 % (Beschluss des EZB-Rates vom 6. Juni 2007);
+"";Bemerkung zu 2008-07: Mindestbietungssatz ab 9. Juli 2008 4,25 % (Beschluss des EZB-Rates vom 3. Juli 2008);
+"";Bemerkung zu 2008-10: Mindestbietungssatz / Festsatz ab 15. Okt. 2008 3,75 % (Telekonferenzen des EZB-Rates vom 8. Okt. 2008);
+"";Bemerkung zu 2008-11: Mindestbietungssatz / Festsatz ab 12. Nov. 2008 3,25 % (Beschluss des EZB-Rates vom 6. Nov. 2008);
+"";Bemerkung zu 2008-12: Festsatz ab 10. Dez. 2008 2,50 % (Beschluss des EZB-Rates vom 4. Dez. 2008);
+"";Bemerkung zu 2009-01: Festsatz ab 21. Jan. 2009 2,00 % (Beschluss des EZB-Rates vom 15. Jan. 2009);
+"";Bemerkung zu 2009-03: Festsatz ab 11. März 2009 1,50 % (Beschluss des EZB-Rates vom 5. März 2009);
+"";Bemerkung zu 2009-04: Festsatz ab 8. April 2009 1,25 % (Beschluss des EZB-Rates vom 2. April 2009);
+"";Bemerkung zu 2009-05: Festsatz ab 13. Mai 2009 1,00 % (Beschluss des EZB-Rates vom 7. Mai 2009);
+"";Bemerkung zu 2011-04: Festsatz ab 13. April 2011 1,25 % (Beschluss des EZB-Rates vom 7. April 2011);
+"";Bemerkung zu 2011-07: Festsatz ab 13. Juli 2011 1,50 % (Beschluss des EZB-Rates vom 7. Juli 2011);
+"";Bemerkung zu 2011-11: Festsatz ab 9. Nov. 2011 1,25 % (Beschluss des EZB-Rates vom 3. Nov. 2011);
+"";Bemerkung zu 2011-12: Festsatz ab 14. Dez. 2011 1,00 % (Beschluss des EZB-Rates vom 8. Dez. 2011);
+"";Bemerkung zu 2012-07: Festsatz ab 11. Juli 2012 0,75 % (Beschluss des EZB-Rates vom 5. Juli 2012);
+"";Bemerkung zu 2013-05: Festsatz ab 8. Mai 2013 0,50 % (Beschluss des EZB-Rates vom 2. Mai 2013);
+"";Bemerkung zu 2013-11: Festsatz ab 13. Nov. 2013 0,25 % (Beschluss des EZB-Rates vom 7. Nov. 2013);
+"";Bemerkung zu 2014-06: Festsatz ab 11. Juni 2014 0,15 % (Beschluss des EZB-Rates vom 5. Juni 2014);
+"";Bemerkung zu 2014-09: Festsatz ab 10. Sept. 2014 0,05 % (Beschluss des EZB-Rates vom 4. Sept. 2014);
+"";Bemerkung zu 2016-03: Festsatz ab 16. März. 2016 0,00 % (Beschluss des EZB-Rates vom 10. März 2016);
+"";Bemerkung zu 2022-07: Festsatz ab 27. Juli. 2022 0,50 % (Beschluss des EZB-Rates vom 21. Juli 2022);
+"";Bemerkung zu 2022-09: Festsatz ab 14. September 2022 1,25 % (Beschluss des EZB-Rates vom 8. September 2022);
